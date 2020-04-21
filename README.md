@@ -11,3 +11,7 @@ This website is a combination of my residual knowledge and the skills thaat I ha
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Eonoapor/mysite/blob/master/LICENSE) file for details
+
+## Acknowledgments
+
+* Hat tip and a bow to anyone whose code was used
